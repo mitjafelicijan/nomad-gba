@@ -1,4 +1,4 @@
-# Noman Space Sim Game
+# Nomad Space Sim Game
 
 ## Installation
 

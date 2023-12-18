@@ -56,6 +56,7 @@ sudo pacman -Syu gba-dev # select all as option
 
 ## Resources
 
+- https://gbadev.net/tonc/foreword.html
 - https://github.com/gbdev/awesome-gbdev
 - https://deep-fold.itch.io/pixel-planet-generator
 - https://deep-fold.itch.io/space-background-generator

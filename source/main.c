@@ -13,7 +13,7 @@ int main(void) {
 
 	consoleDemoInit();
 
-	iprintf("\x1b[2;2HHi Bobi!\n");
+	iprintf("\x1b[2;2HHi Bob!\n");
 
 	while (1) {
 		VBlankIntrWait();
